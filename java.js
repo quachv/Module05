@@ -9,9 +9,6 @@ if (operator === 'multiply') {
     msg += i + ' x ' + table + ' = ' + (i * table) + '<br />';
     i++;
   }
-  else{
-	  msg = "Error, please try again";
-	}
 }	
 
 // Write the message into the page
