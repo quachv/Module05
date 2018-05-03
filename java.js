@@ -12,5 +12,5 @@ if (operator == 'multiplication') {
 }
 
 // Write the message into the page
-var el = document.getElementById('blackboard');
 el.innerHTML = msg;
+var el = document.getElementById('blackboard');
